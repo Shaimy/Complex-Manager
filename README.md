@@ -14,4 +14,4 @@ Nous allons donc créer une page Web, toute simple, où il y aura 2 champs et un
 
 Présentation en image
 
-![image](https:///Users/azis_w/Desktop/Screen%20Shot%202016-04-07%20at%2011.12.11.png)
+![image](http://www.cjoint.com/doc/16_04/FDhjyupoKET_Screen-Shot-2016-04-07-at-11.12.11.png)
