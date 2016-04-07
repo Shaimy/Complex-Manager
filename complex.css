@@ -1,0 +1,59 @@
+html, body
+{
+    margin: 0;
+    padding: 0;
+}
+
+hr
+{
+    width : 50%;
+    background-color: #ffd700;
+    color: #ffd700;
+    border: 0;
+    height: 1px;
+}
+
+#resultat, #graph, .form
+{
+    position: relative;
+    left: 25%;
+    right: auto;
+    width: 50%;
+    border-style: solid;
+    border-width: 1px;
+    text-align: left;
+}
+
+#resultat div
+{
+    padding-left: 5%;
+}
+
+#float
+{
+    height: 100px;
+}
+
+h1,h2
+{
+    text-align: center;
+    font-family: Arial, serif;
+    color : #178dd6;
+}
+
+.button
+{
+    background-color: #2ca5f5;
+    border-radius: 40;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #fff;
+}
+
+.button:hover
+{
+    background-color: #178dd6;
+}
